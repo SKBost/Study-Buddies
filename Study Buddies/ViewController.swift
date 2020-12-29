@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // buttons
     @IBOutlet weak var newUserButton: UIButton!
     @IBOutlet weak var logInButton: UIButton!
     @IBOutlet weak var forgotPasswordButton: UIButton!
